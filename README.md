@@ -1,2 +1,12 @@
 # TurboFlex
-Ultra-high scalability ultra-low memory ultra-high performance text editor. 
+
+超高拡張性超低メモリ超高パフォーマンステキストエディタ。
+
+## 機能
+
+テキスト編集など...
+
+## License
+
+このリポジトリのすべてのコンテンツはCC0 1.0 Universalの下で公開されており、著作権および関連権利を完全に放棄しています。クレジット表示、許可取得、改変の制限なく、自由に利用してください。著作者人格権も行使しません。
+クレジットは不要ですが、記載してくれると嬉しいです。
